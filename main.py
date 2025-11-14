@@ -1,6 +1,6 @@
 import cv2
 
-# img = cv2.imread('image.png')
+# img = cv2.imread('images/image.png')
 # cv2.resize
 # cv2.imshow("image", img)
 
